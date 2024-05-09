@@ -33,7 +33,7 @@ Una clase opacará a todos los selectores de elementos
 4. Ocupa todo el ancho que pueda
 5. Pero dejar situarse otros elementos a su lado
 
-## Display none
+### Display none
 Hace que el objeto desaparezca de la página
 
 ## Box model
